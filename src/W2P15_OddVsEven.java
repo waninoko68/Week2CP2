@@ -12,7 +12,7 @@ public class W2P15_OddVsEven {
             int x = scan.nextInt();
             if(x%2==0)
             {
-                sumeven+=x;
+                sumeven +=x;
             }
             else
             {
